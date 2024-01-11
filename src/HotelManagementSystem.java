@@ -5,7 +5,7 @@ public class HotelManagementSystem {
 
     private static  final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static  final String username = "root";
-    private static  final String password = "Opm@7352281493";
+    private static  final String password = "java@12345";
     public static void main(String[] args) {
         try {
             Class.forName("com.mysql.jdbc.Driver");
